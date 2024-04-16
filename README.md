@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Manglam11/social_link_profile.git)
-- Live Site URL: [Add live site URL here](https://manglam11.github.io/social_link_profile/)
+- Solution URL: [URL here](https://github.com/Manglam11/social_link_profile.git)
+- Live Site URL: [URL here](https://manglam11.github.io/social_link_profile/)
 
 ## my-process
 
