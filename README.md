@@ -23,7 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-[./design/scl_screenshot.png]
+
+![Project Screenshot](./design/scl_screenshot.png)
 
 ### Links
 
